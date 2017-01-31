@@ -167,6 +167,7 @@
             }
 
             handle.css({
+                'background-color': 'grey',
                 'display': 'block',
                 'position' : 'absolute'
             });
